@@ -2,5 +2,4 @@
 一款适用于goland的人工调试主题。
 直接托入goland自动识别。
 
-![image](https://github.com/hq-zhonger/goland-theme/blob/main/goland1.png)
-![image](https://github.com/hq-zhonger/goland-theme/blob/main/goland2.png)
+![image](https://github.com/hq-zhonger/goland-theme/blob/main/goland.png）
